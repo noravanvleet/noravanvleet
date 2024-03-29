@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @noravanvleet
 - 👀 I’m interested in plants, coding, and skiing
-- 🌱 I’m currently studying to get a Bachelor Of Science at UW-Madison for computer science.
+- 🌱 I’m have a Bachelor of Science in Computer Science from UW-Madison.
+- I work as a software engineer.
 
 <!---
 noravanvleet/noravanvleet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
